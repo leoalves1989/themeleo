@@ -2,6 +2,8 @@
 
     <head>
         {{ content_for_header }}
+        {{ render 'pagefly-head' }}
+        {{ 'theme.css' | asset_url | stylesheet_tag }}
     </head>
 
         <body>
