@@ -14,8 +14,7 @@
         "type": "announcement-bar",
         "settings": {
           "show-announcement": true,
-          "image": "shopify://shop_images/pexels-cottonbro-cg-studio-70588080-8834489.jpg",
-          "background": "#8c8a8a",
+          "background": "#dfd4d4",
           "text_color": "#f40505"
         }
       }
