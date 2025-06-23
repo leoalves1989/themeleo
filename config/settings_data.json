@@ -13,7 +13,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "show-announcement": false,
+          "show-announcement": true,
           "image": "shopify://shop_images/pexels-cottonbro-cg-studio-70588080-8834489.jpg"
         }
       }
